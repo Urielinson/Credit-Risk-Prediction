@@ -1,9 +1,35 @@
-This project uses the **Home Credit Default Risk** dataset from Kaggle.
+# Credit Risk Prediction
 
-Due to GitHub file size limitations and licensing restrictions, the dataset is not included in this repository.
+A complete end-to-end Machine Learning project for predicting loan default using the Home Credit Default Risk dataset.
 
-Download the dataset from:
+## Project Objectives
 
-https://www.kaggle.com/competitions/home-credit-default-risk/data
+- Perform exploratory data analysis (EDA)
+- Build reproducible preprocessing pipelines
+- Engineer predictive features
+- Train and compare multiple machine learning models
+- Interpret model predictions using SHAP
+- Translate analytical findings into business recommendations
 
-After downloading, place the CSV files inside:
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- XGBoost
+- SQL
+- Plotly
+- SHAP
+- Git
+
+## Repository Structure
+
+```
+notebooks/
+src/
+data/
+models/
+reports/
+figures/
+```
